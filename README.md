@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## BOJ Status(Solved.ac Tier)
+[![Solved.ac 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kytbible)](https://solved.ac/kytbible)
 <!--
 **tlsdud135/tlsdud135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
